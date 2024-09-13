@@ -126,7 +126,7 @@ CALL agendar_pecas(
     'O Vitorioso',
     'Uma peça de teatro escrita por Kelly Mattos sobre a vitoria de uma causa genetica.',
     140,
-    '2024-09-15 19:00:00', -- Data e hora já estão ocupadas por 'Romeu e Julieta'
+    '2024-09-15 19:00:00', -- Data e hora já estão ocupadas por 'Japones e o Coreano'
     'Daniel Ramos',
     'Renata Kill, Terry Bogard'
 );
